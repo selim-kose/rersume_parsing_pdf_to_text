@@ -1,7 +1,4 @@
-,name,phone,email,skills
-0,Alisson Parker-Wright,['8569878511'],alli1414parks@mail.com,"{'java', 'tableau', 'python'}"
-1,Ashley Miles,['6592251422'],ashleymiles@memail.com,"{'tableau', 'sql'}"
-2,John Dominic,['7877756411'],johndominic@mail.com,"{'java', 'hadoop', 'python'}"
-3,Alisson Parker-Wright,['8569878511'],alli1414parks@mail.com,"{'java', 'tableau', 'python'}"
-4,Ashley Miles,['6592251422'],ashleymiles@memail.com,"{'tableau', 'sql'}"
-5,John Dominic,['7877756411'],johndominic@mail.com,"{'java', 'hadoop', 'python'}"
+;name;phone;email;skills
+0;Alisson Parker-Wright;['8569878511'];alli1414parks@mail.com;{'tableau', 'java', 'python'}
+1;Ashley Miles;['6592251422'];ashleymiles@memail.com;{'sql', 'tableau'}
+2;John Dominic;['7877756411'];johndominic@mail.com;{'java', 'hadoop', 'python'}
